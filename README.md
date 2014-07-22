@@ -12,4 +12,4 @@ In this exercise you will be writing tests to drive development by another team.
 
 1. Create a Github repository for you and your partner
 2. Add yourselves AND the other pair as collaborators to your repository
-3. Setup [Github hooks to integrate with HipChat](http://help.hipchat.com/knowledgebase/articles/64389-github-integration), so that you don't need to manually notify the other team each time you push new code. Your HipChat API Token available on the [Phase 3 Guide](../../phase-3-guide).
+3. Setup [Github hooks to integrate with HipChat](http://help.hipchat.com/knowledgebase/articles/64389-github-integration), so that you don't need to manually notify the other team each time you push new code. Your HipChat API Token available on the [Phase 3 Guide](../../../phase-3-guide).
